@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Kvadrat\bin\Debug\Kvadrat.exe.config
+C:\Users\User\source\repos\Kvadrat\bin\Debug\Kvadrat.exe
+C:\Users\User\source\repos\Kvadrat\bin\Debug\Kvadrat.pdb
+C:\Users\User\source\repos\Kvadrat\obj\Debug\Kvadrat.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Kvadrat\obj\Debug\Kvadrat.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Kvadrat\obj\Debug\Kvadrat.exe
+C:\Users\User\source\repos\Kvadrat\obj\Debug\Kvadrat.pdb
